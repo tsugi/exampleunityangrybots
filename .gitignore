@@ -1,0 +1,17 @@
+# Ignore misc OS files...
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore Unity artifacts
+Library
+Temp
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+

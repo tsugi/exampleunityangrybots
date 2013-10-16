@@ -1,0 +1,83 @@
+fileFormatVersion: 2
+guid: 4c3741f92cecb5149acd928b39888247
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: Cylinder002
+    4300002: Line001
+    4300004: Box001
+    4300006: electric_buzzer_main
+    4300008: electric_buzzer_right_propellerarm
+    4300010: electric_buzzer_plasmapropeller
+    4300012: electric_buzzer_plasma_right
+    4300014: electric_buzzer_buzzgun
+    4300016: electric_buzzer_right_propellerarm001
+    4300018: electric_buzzer_plasmapropeller001
+    4300020: electric_buzzer_plasma_right001
+    4300022: Object004
+    4300024: buzzerbot_mainbody
+    4300026: electric_buzzer_plasma
+    4300028: buzzer
+    100100000: DataTemplate __Singleton__
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: 0.500000
+    animationPositionError: 0.500000
+    animationScaleError: 0.500000
+    animationWrapMode: 0
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.000000
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    meshOptimization: 4
+    secondaryUVAngleDistortion: 8.000000
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88.000000
+    secondaryUVPackMargin: 4.000000
+  tangentSpace:
+    normalSmoothAngle: 60.000000
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+      data:
+        first: 23
+        second: 60182300
+      data:
+        first: 33
+        second: a05a3200
+      data:
+        first: 111
+        second: 605fa900
+    electric_buzzer_plasma:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+      data:
+        first: 23
+        second: 62182300
+      data:
+        first: 33
+        second: a25a3200

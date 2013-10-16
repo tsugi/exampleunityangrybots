@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 06a57d6b6451b42f598a41b80e254ae9
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.250000
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1.000000
+    wrapMode: -1
+  nPOTScale: 1
+  lightmap: 0
+  textureType: 0
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 256
+    textureFormat: -3

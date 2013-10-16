@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 517875ce84bd0439191c2a64f830f0bf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - renderFromPosition: {instanceID: 0}
+  - cubemap: {instanceID: 0}
+  - mySkyBoxMat: {fileID: 2100000, guid: 93bd45a28b664406eaed51831b0e1f79, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
